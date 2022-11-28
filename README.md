@@ -11,7 +11,7 @@ As you can see, my music taste hasn't changed much
 
 
 
-Lets hope my attention span doesn't match my duration sweet spot of around 3.5 minutes
+Lets hope my attention span doesn't match my duration sweet spot of just under 3.5 minutes
 
 <img width="730" alt="image" src="https://user-images.githubusercontent.com/54554532/204294155-684d60f2-8f6f-44fb-9f34-1e00797cd861.png">
 
