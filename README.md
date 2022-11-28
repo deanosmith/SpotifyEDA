@@ -1,6 +1,5 @@
 # SpotifyEDA
-A exploratory project to better understand my music taste using the Spotify API. 
-Future updates are intended to help manage my music library
+A fun exploratory project to better understand my music taste using the Spotify API. 
 
 ## Visualisation of my Top 100 Songs of 2020
 ![2020](https://user-images.githubusercontent.com/54554532/203551786-aa025d7b-3859-41d2-b535-c224bd83c42d.png)
