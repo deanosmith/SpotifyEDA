@@ -5,7 +5,7 @@ A fun exploratory project to better understand my music taste using the Spotify 
 ![2020](https://user-images.githubusercontent.com/54554532/203551786-aa025d7b-3859-41d2-b535-c224bd83c42d.png)
 
 ### My 2021 Top 100 Songs
-![2021](https://user-images.githubusercontent.com/54554532/203551823-d8ba6d85-828a-4e0a-af27-3750fdc416ee.png)
+![image](https://user-images.githubusercontent.com/54554532/205290538-8484c2b4-e5ad-44bf-9dc6-cfe325d9088d.png)
 
 ### My 2022 Top 100 Songs
 <img width="525" alt="image" src="https://user-images.githubusercontent.com/54554532/205261948-8faa0855-eff6-4564-9729-602b5ebdcc89.png">
