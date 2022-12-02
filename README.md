@@ -7,7 +7,9 @@ A fun exploratory project to better understand my music taste using the Spotify 
 ### My 2021 Top 100 Songs
 ![2021](https://user-images.githubusercontent.com/54554532/203551823-d8ba6d85-828a-4e0a-af27-3750fdc416ee.png)
 
-As you can see, my music taste hasn't changed much
+### My 2022 Top 100 Songs
+<img width="525" alt="image" src="https://user-images.githubusercontent.com/54554532/205261948-8faa0855-eff6-4564-9729-602b5ebdcc89.png">
+
 
 
 
