@@ -11,7 +11,7 @@ A fun exploratory project to better understand my music taste using the Spotify 
 <img width="525" alt="image" src="https://user-images.githubusercontent.com/54554532/205261948-8faa0855-eff6-4564-9729-602b5ebdcc89.png">
 
 Interesting to see how much music taste has changed.
-(A deeper analysis identifying the trends and changes in coming soon)
+(A deeper analysis identifying the trends and changes is coming soon)
 
 
 Lets hope my attention span doesn't match my duration sweet spot of just under 3.5 minutes
