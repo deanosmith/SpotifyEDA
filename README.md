@@ -14,11 +14,6 @@ Interesting to see how much music taste has changed.
 (A deeper analysis identifying the trends and changes is coming soon)
 
 
-
-<img width="730" alt="image" src="https://user-images.githubusercontent.com/54554532/204294155-684d60f2-8f6f-44fb-9f34-1e00797cd861.png">
-
 ![image](https://user-images.githubusercontent.com/54554532/222446646-5e09f49d-ed9c-40d9-b941-1b2a3a623ed4.png)
 
 Fast or slow, I don't seem to mind
-
-<img width="1380" alt="image" src="https://user-images.githubusercontent.com/54554532/204294542-c403cfe4-4f9a-4086-bb92-0ac43bda6655.png">
