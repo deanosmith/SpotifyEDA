@@ -1,5 +1,0 @@
-cid = '5e6fa06773d94f1aac1b0ddb386f638a'
-
-secret = '286bab21a6e1476da9c8ba2eaa7cdcbb'
-
-bearer = 'BQBLhX5U2Mp8nEeUyl39u507HbY3lG62tjdfIvq5nLYA5L4DQPGCtSV4LH08B1Dg0rn-H4iah3SAvp-z-nf0bO6U5XvMju_3G7CFqpbkxHbzY40r_C_8G9nkovJHqpff74y2ZhOvp2ezFnLY6ikqFM8J2Q4DyjI6ORaCvouAdwjYlSFC5SMur4xplP0z_Jw31YKcKHCdFE4'
